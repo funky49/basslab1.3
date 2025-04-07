@@ -26,3 +26,7 @@ Connect amplifier to laptop/phone/tablet
 Visit site.
 
 Mix oobleck and pour into speaker cone
+
+website to do list:
+put in "refresh" links on the page
+add in a warning "this computer code is not designed to be gentle to speakers"
